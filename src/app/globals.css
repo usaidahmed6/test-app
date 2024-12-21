@@ -46,5 +46,5 @@ body {
       rgba(255, 255, 255, 0.6),
       rgba(255, 255, 255, 0.8)
     ),
-    url("./images/cover-img-1.avif");
+    url("/cover-img-1.avif");
 }
